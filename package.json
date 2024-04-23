@@ -1,0 +1,21 @@
+{
+  "name": "awais-simple-calculator",
+  "version": "1.0.0",
+  "description": "simple calculator with typescript and node.js and inquiror",
+  "main": "(index.js)",
+  "type": "module",
+  "bin": {
+    "awais-simple-calculator": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "awais",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
